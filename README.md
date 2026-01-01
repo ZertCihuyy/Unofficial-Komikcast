@@ -49,7 +49,7 @@ Cors
 │   ├── Komik.js
 │   ├── Chapter.js
 │   └── Genre.js
-├── index.js
+├── server.js
 ├── package.json
 └── README.md
 ```
