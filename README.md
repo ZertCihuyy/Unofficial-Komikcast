@@ -61,7 +61,7 @@ Cors
 1️⃣ Clone Repository
 ```bash
 https://github.com/ZertCihuyy/Unofficial-Komikcast.git
-cd unofficial-komikcast-api
+cd unofficial-komikcast
 ```
 2️⃣ Install Dependencies
 ```
